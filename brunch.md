@@ -8,7 +8,7 @@ The brunch potluck is Sunday, May 31st from 11:30am to 2:30pm. We are expecting 
 
 # Who is Bringing What
 
-Please let me know what you'll be bringing so I can update this table and help ensure we get a good variety of food.
+Please let me know what you'll be bringing (via, text, email, whatever) so I can update this table and help ensure we get a good variety of food. Feel free to bring something not on the list.
 
 |---
 | Drink | Who is bringing it
