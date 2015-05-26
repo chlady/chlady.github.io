@@ -1,0 +1,12 @@
+# Site settings
+title: Brunch Potluck
+email: chlady@me.com
+description: > # this means to ignore newlines until "baseurl:"
+  Brunch planning website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://chlady.github.io" # the base hostname & protocol for your site
+twitter_username: chlady
+github_username:  chlady
+
+# Build settings
+markdown: kramdown
