@@ -13,26 +13,32 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 |---
 | Drink | Who is bringing it
 |:-|:-|
-| Orange Juice | Chris
-| Champagne | Chris
+| Orange Juice | Chris & Tony
+| Champagne | Chris & Tony
 | Coffee | Chris
 | Apple Juice |
-| Bloody Mary supplies
+| Bloody Mary supplies | Scott
+| Mint Julep | Scott
 |---
 | **Food** | **Who is bringing it**
-| Casseroles | Megan (French Toast Casserole)
-| Bagels & Cream Cheese |
+| French Toast Casserole | Megan (French Toast Casserole)
+| Potato Casserole |
+| Breakfast Casserole |
+| Bagels & Cream Cheese | Alex
+| Scrambled Eggs |
 | Breakfast Pizza | Megan
 | Fruit plate or salad |
-| Pastries (Croissants, etc.) |
+| Pastries | Phong
+| More Pastries | 
 | Muffins |
 | Waffles |
-| Bacon |
-| Sausage |
+| Bacon | Nick
+| Sausage | Nick
 | Salads (pasta, potato, greens, etc.) |
 | Cheese & Crackers |
 | Cinnamon Rolls / Breakfast breads |
-| Mac & Cheese |
+| Mac & Cheese | Jane (Goat Chess Mac)
 | Sandwich supplies (code cuts, rolls, cheese, lettuce, etc.) |
-| Dessert |
+| Dessert | Sam (Brownies)
+| More Dessert | 
 
