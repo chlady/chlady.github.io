@@ -16,7 +16,7 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Orange Juice | Chris & Tony
 | Champagne | Chris & Tony
 | Coffee | Chris
-| Apple Juice |
+| Apple Juice | Rajath
 | Bloody Mary supplies | Scott
 | Mint Julep | Scott
 |---
