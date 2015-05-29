@@ -22,22 +22,21 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 |---
 | **Food** | **Who is bringing it**
 | French Toast Casserole | Megan (French Toast Casserole)
-| Potato Casserole |
-| Breakfast Casserole |
+| Breakfast or Potato Casserole |
+| Quiche or Fritada |
 | Bagels & Cream Cheese | Alex
 | Scrambled Eggs |
 | Breakfast Pizza | Megan
 | Tostones | Jonathan
 | Fruit plate or salad |
 | Pastries | Phong
-| More Pastries | 
-| Muffins |
+| More Pastries | Erik B
 | Waffles |
 | Bacon | Nick
 | Sausage | Nick
 | Salads (pasta, potato, greens, etc.) |
 | Cheese & Crackers |
-| Cinnamon Rolls / Breakfast breads |
+| Cinnamon Rolls / Breakfast breads | Matt (Cinnamon Rolls)
 | Mac & Cheese | Jane (Goat Chess Mac)
 | Sandwich supplies (code cuts, rolls, cheese, lettuce, etc.) |
 | Dessert | Sam (Brownies)
