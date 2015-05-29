@@ -31,7 +31,6 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Sausage | Nick
 | Mac & Goat Cheese | Jane
 | Cinnamon Rolls | Matt
-
 | Brownies | Sam
 | Flan | Chris P
 | **Ideas** | 
