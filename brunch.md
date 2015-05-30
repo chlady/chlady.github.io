@@ -22,6 +22,7 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 |---
 | **Food** | **Who is bringing it**
 | French Toast Casserole | Megan
+| Scrambled Eggs in Hash Brown Cups | Juan & Grette
 | Bagels & Cream Cheese | Alex
 | Breakfast Pizza | Megan
 | Tostones | Jonathan
