@@ -23,25 +23,24 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | **Food** | **Who is bringing it**
 | French Toast Casserole | Megan
 | Scrambled Eggs in Hash Brown Cups | Juan & Grette
-| Bagels & Cream Cheese | Alex
+| Mac & Goat Cheese | Jane
 | Breakfast Pizza | Megan
 | Tostones | Jonathan
+| Bagels & Cream Cheese | Alex
 | Pastries | Phong
 | More Pastries | Erik B
 | Bacon | Nick
 | Sausage | Nick
-| Mac & Goat Cheese | Jane
 | Cinnamon Rolls | Matt
 | Brownies | Sam
 | Fruit salad | Wenchao
 | **Ideas** | 
-| Quiche or Fritada |
+| Quiche 
+| Fritada 
 | Breakfast or Potato Casserole |
-| Scrambled Eggs |
 | Waffles |
 | Salads (pasta, potato, greens, etc.) |
 | Cheese & Crackers |
 | Breakfast breads |
-| Sandwich supplies (code cuts, rolls, cheese, lettuce, etc.) |
-| Flan | 
+
 
