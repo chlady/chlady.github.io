@@ -32,15 +32,15 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Mac & Goat Cheese | Jane
 | Cinnamon Rolls | Matt
 | Brownies | Sam
-| Flan | Chris P
+| Fruit salad | Wenchao
 | **Ideas** | 
 | Quiche or Fritada |
 | Breakfast or Potato Casserole |
-| Fruit salad | Wenchao
 | Scrambled Eggs |
 | Waffles |
 | Salads (pasta, potato, greens, etc.) |
 | Cheese & Crackers |
 | Breakfast breads |
 | Sandwich supplies (code cuts, rolls, cheese, lettuce, etc.) |
+| Flan | 
 
