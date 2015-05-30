@@ -13,8 +13,8 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 |---
 | Drink | Who is bringing it
 |:-|:-|
-| Orange Juice | Chris & Tony
-| Champagne | Chris & Tony
+| Orange Juice | Chris
+| Champagne | Chris
 | Coffee | Chris
 | Apple Juice | Rajath
 | Bloody Mary supplies | Scott
@@ -36,7 +36,7 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | **Ideas** | 
 | Quiche or Fritada |
 | Breakfast or Potato Casserole |
-| Fruit plate or salad |
+| Fruit salad | Wenchao
 | Scrambled Eggs |
 | Waffles |
 | Salads (pasta, potato, greens, etc.) |
