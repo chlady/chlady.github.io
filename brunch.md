@@ -22,11 +22,12 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 |---
 | **Food** | **Who is bringing it**
 | French Toast Casserole | Megan
-| Scrambled Eggs in Hash Brown Cups | Juan & Grette
+| Scrambled Eggs in Hash Brown Cups | Juan
 | Mac & Goat Cheese | Jane
 | Breakfast Pizza | Megan
 | Tostones | Jonathan
 | Indian Breakfast Dish | Nidhi
+| Quiche | Steve
 | Bagels & Cream Cheese | Alex
 | Pastries | Phong
 | More Pastries | Erik B
@@ -34,9 +35,8 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Sausage | Nick
 | Cinnamon Rolls | Matt
 | Brownies | Sam
-| Fruit salad | Wenchao
+| Fruit salad | Wenchao, Jason
 | **Ideas** | 
-| Quiche 
 | Fritada 
 | Breakfast or Potato Casserole |
 | Waffles |
