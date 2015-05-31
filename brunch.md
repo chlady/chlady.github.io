@@ -28,6 +28,7 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Tostones | Jonathan
 | Indian Breakfast Dish | Nidhi
 | Quiche | Steve
+| Finger Food Bacon Pancakes | Scotty
 | Bagels & Cream Cheese | Alex
 | Pastries | Phong
 | More Pastries | Erik B
