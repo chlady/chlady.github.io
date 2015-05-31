@@ -26,6 +26,7 @@ Please let me know what you'll be bringing (via, text, email, whatever) so I can
 | Mac & Goat Cheese | Jane
 | Breakfast Pizza | Megan
 | Tostones | Jonathan
+| Indian Breakfast Dish | Nidhi
 | Bagels & Cream Cheese | Alex
 | Pastries | Phong
 | More Pastries | Erik B
